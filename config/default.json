@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl" : "mongodb+srv://azatabdykalli:3AoaECTYwKsgOSKI@esikkargo.1bvjgnd.mongodb.net/?retryWrites=true&w=majority&appName=esikkargo",
+    "secretKey" : "mern-secret-key"
+}
